@@ -59,9 +59,23 @@ Output Example:
 
 Output saved as: output_styled.png
 
+
 # PROGRAM
 
+![Image](https://github.com/user-attachments/assets/1a532d63-17ad-41fe-9327-00e67ad2f7d7)
 
+![Image](https://github.com/user-attachments/assets/105c7b54-ff83-48af-83dd-7c800cc1afc9)
+
+![Image](https://github.com/user-attachments/assets/be63c1e2-6fa8-4be7-949a-0395f2b7fd80)
+
+
+# OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/28114b68-3870-454c-a491-6b1e6b6b6313)
+
+![Image](https://github.com/user-attachments/assets/ee7c31f1-5038-41af-8cbc-0bbb3312febd)
+
+![Image](https://github.com/user-attachments/assets/4c173485-56b6-4106-a741-b1d2afc95b2d)
  
 
  
